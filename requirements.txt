@@ -1,0 +1,8 @@
+# for auto suggestions
+!pip install jupyterlab-lsp
+# loading excel files required openpyxl lib
+!pip install openpyxl
+!pip install seaborn
+!pip install imbalanced-learn
+!pip install shap
+!pip install flask
